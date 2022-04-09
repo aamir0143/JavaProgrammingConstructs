@@ -1,0 +1,22 @@
+[
+    {
+        "firstName": "Aamir",
+        "lastName": "Reza",
+        "address": "Shampura",
+        "city": "Bangalore",
+        "state": "Karnataka",
+        "zipCode": "560045",
+        "phoneNumber": "91 7975633784",
+        "emailId": "aamirreza123@gmail.com"
+    },
+    {
+        "firstName": "Aquib",
+        "lastName": "Alam",
+        "address": "Dagrua",
+        "city": "Purnia",
+        "state": "Bihar",
+        "zipCode": "854330",
+        "phoneNumber": "91 9973535177",
+        "emailId": "aquib123@gmail.com"
+    }
+]

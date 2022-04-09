@@ -1,6 +1,6 @@
 //Arrow Functions
 //let myFunction = (a, b) => a * b;
-//Multiple methods
+//Multiple statements
 const numbers = (a, b) => {
     c = 5;
     return (a + b) * c;
